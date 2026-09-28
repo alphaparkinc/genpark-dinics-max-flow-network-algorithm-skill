@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-dinics-max-flow-network-algorithm-skill"
+version = "1.0.0"
+description = "Dinic's blocking flow algorithm with level graphs and dead-end pruning for maximum network flow"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
