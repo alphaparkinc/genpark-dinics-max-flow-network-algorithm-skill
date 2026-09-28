@@ -1,0 +1,20 @@
+{
+  "name": "genpark-dinics-max-flow-network-algorithm-skill",
+  "version": "1.0.0",
+  "description": "Dinic's blocking flow algorithm with level graphs and dead-end pruning for maximum network flow",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "dinics-algorithm",
+    "max-flow",
+    "network-flow",
+    "level-graph",
+    "blocking-flow",
+    "python-standard-library",
+    "agent-skills",
+    "graph-algorithms",
+    "combinatorial-optimization",
+    "bipartite-matching"
+  ]
+}
