@@ -1,0 +1,6 @@
+name: genpark-dinics-max-flow-network-algorithm-skill
+version: 1.0.0
+description: Dinic's blocking flow algorithm with level graphs and dead-end pruning for maximum network flow
+command: python
+args:
+  - mcp_server.py
